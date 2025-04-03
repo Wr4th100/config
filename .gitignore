@@ -1,1 +1,7 @@
-Code
+/*
+!/.gitignore
+!./nvim
+!./kitty
+!./starship.toml
+!./README.md
+
